@@ -21,9 +21,13 @@ Swashbuckle (Swagger) para documentación automática de endpoints
 
 ## Configuración y variables de entorno
 El proyecto utiliza un archivo .env para configurar la url base de la API en frontend
+
 1.- Copiar el archivo .env.example a .env y modificar si es necesario
+
 2.- Backend corre en `http://localhost:5000`  
+
 3.- Frontend corre en `http://localhost:5173`  
+
 
 ## Instrucciones para ejecutar el proyecto
 
