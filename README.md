@@ -19,7 +19,7 @@ Swashbuckle (Swagger) para documentación automática de endpoints
 .NET 6 SDK (https://dotnet.microsoft.com/download/dotnet/6.0) instalado en tu equipo
 .Node js y npm/yarn instalados
 
-##Configuración y variables de entorno
+## Configuración y variables de entorno
 El proyecto utiliza un archivo .env para configurar la url base de la API en frontend
 1.- Copiar el archivo .env.example a .env y modificar si es necesario
 2.- Backend corre en `http://localhost:5000`  
